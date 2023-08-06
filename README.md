@@ -6,7 +6,7 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-![Template](https://github.com/tristan-derez/astro-portfolio/blob/main/public/opengraph-image.jpg)
+![Template](https://github.com/tristan-derez/astro-portfolio/blob/main/public/og-image.jpg)
 
 This theme/template is designed and crafted by [Maxence wolff](https://www.maxencewolff.com).
 
