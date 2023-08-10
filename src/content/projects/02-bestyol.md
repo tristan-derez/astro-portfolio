@@ -1,7 +1,7 @@
 ---
 title: "Bestyol API"
 publishedAt: 2023-08-06
-description: "School project, we had 4 weeks to build an app with requirements for a certification"
+description: "For an end-of-year project, we had 4 weeks to build an app with requirements for a certification"
 slug: "bestyol"
 isPublish: true
 ---
@@ -14,8 +14,11 @@ isPublish: true
 
 ### Description
 
-For a school project I had to build the backend for a gamification app. At signup you chose a "Yol" which is a little
-creature, as you complete daily tasks you get xp which makes your Yol level up.
+For our end-of-year project, we were assigned the challenge of building an app from the ground up to showcase our skills. We conceived the idea of motivating individuals to progressively cultivate habits that would enhance their daily lives.
+
+During the sign-up process, users select a 'Yol,' a small creature that represents them. By completing daily tasks, users earn experience points (XP), which contribute to leveling up their Yol and unlocking success titles.
+
+I was tasked with developing the backend API, which included creating our customized authentication system and implementing functionalities for selecting a 'Yol', earning experience points, and validating tasks, whether they were custom tasks or daily ones. This required designing an authentication process, establishing mechanisms for users to select their 'Yol',  tracking XP-based progress, and effectively validating the completion of various tasks and achievements.
 
 _In 4 weeks we built v1:_
 >User get 6 random daily tasks per day and can validate them <br>
