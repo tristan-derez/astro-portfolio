@@ -13,7 +13,7 @@ const projects: Project[] = [
   },
   {
     title: "Devfinder",
-    techs: ["typescript", "react"],
+    techs: ["typescript", "react", "axios", "zustand"],
     link: "https://devfinder-dreyzu.vercel.app/",
   },
 ];
