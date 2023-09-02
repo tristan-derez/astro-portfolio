@@ -37,5 +37,5 @@ _Future plan:_
 
 ### URLs
 
-[Livesite](https://bestyol.vercel.app/) | [GitHub backend repo](https://github.com/tristan-derez/bestyolback)
+[Livesite](https://bestyol.vercel.app/) | [GitHub backend repo](https://github.com/tristan-derez/bestyol-back)
 
