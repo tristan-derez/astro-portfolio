@@ -37,5 +37,5 @@ _Future plan:_
 
 ### URLs
 
-[Livesite](https://devfinder-dreyzu.vercel.app/) | [GitHub Repo](https://github.com/tristan-derez/devfinder)
+[Livesite](https://bestyol.vercel.app/) | [GitHub backend repo](https://github.com/tristan-derez/bestyolback)
 
