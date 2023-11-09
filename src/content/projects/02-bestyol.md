@@ -12,13 +12,26 @@ isPublish: true
 
 ![](/img/preview-bestyol.jpg)
 
-### Description
+### Description 
 
-For our end-of-year project, we were assigned the challenge of building an app from the ground up to showcase our skills. We conceived the idea of motivating individuals to progressively cultivate habits that would enhance their daily lives.
+For our end-of-year project, we were assigned the challenge of building an app from the ground up to showcase our skills.
 
-During the sign-up process, users select a 'Yol,' a small creature that represents them. By completing daily tasks, users earn experience points (XP), which contribute to leveling up their Yol and unlocking success titles.
+We worked together to create a solution for users having difficulties with managing their daily life tasks,
+like doing laundry, taking a walk, reading pages of a book…
 
-I was tasked with developing the backend API, which included creating our customized authentication system and implementing functionalities for selecting a 'Yol', earning experience points, and validating tasks, whether they were custom tasks or daily ones. This required designing an authentication process, establishing mechanisms for users to select their 'Yol',  tracking XP-based progress, and effectively validating the completion of various tasks and achievements.
+The goal is to motivate users to progressively cultivate habits that would enhance their daily lives.
+To accomplish this, they can register to create a Yol, a cute creature that will be their new pet.
+
+As they complete daily tasks, they gain experience points, and if they keep completing daily tasks, they will get
+success too. Both grants additional experience points.
+These experience points enable the level up of the Yol, and as it gains XP, it will evolve, up to three
+different evolutions.
+
+The app is not limited to preset tasks. Users can also create custom tasks that fit their specific needs and
+goals. However, these custom tasks will not give any XP points.
+
+In the future, I'm planning to add a combat system, allowing Yols to engage in friendly battles with
+others.
 
 _In 4 weeks we built v1:_
 >User get 6 random daily tasks per day and can validate them <br>
@@ -26,14 +39,9 @@ _In 4 weeks we built v1:_
 >User can validate success <br>
 >User are able to evolve their Yol
 
-_Future plan:_
+### Techs && Languages
 
->Fights between Yol <br>
->Add an option to prevent users from getting tasks from sport category
-
-### Techs
-
->Typescript / Zod / Prisma / Node.js / Express
+> Typescript / Zod / Prisma / Node.js / Express
 
 ### URLs
 
