@@ -16,7 +16,7 @@ const presentation: Presentation = {
   title: "Hi, I'm Tristan 👋",
   // profile: "/profile.webp",
   description:
-    "I'm a *french fullstack developer* working for *SNCF* Voyageurs - TER Pays de la Loire. Current stack is *Node.js*, *Express*, & *React*. I like learning new things, reading, watching movies and a lot of others random things",
+    "I'm a *french fullstack developer*. I mainly code in *TypeScript*, but I enjoy exploring and cultivating my skills in various programming languages. Current stack is *Node.js*, *Fastify*, & *React*.<br> I like learning new things, reading, watching movies and a lot of others random things",
   socials: [
     {
       label: "LinkedIn",
