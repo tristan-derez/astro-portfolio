@@ -9,12 +9,12 @@ const projects: Project[] = [
   {
     title: "Bestyol",
     techs: ["typescript", "node.js", "express", "prisma", "zod"],
-    link: "https://bestyol.vercel.app/",
+    link: "projects-details/bestyol",
   },
   {
     title: "Devfinder",
     techs: ["typescript", "react", "axios", "zustand"],
-    link: "https://devfinder-dreyzu.vercel.app/",
+    link: "projects-details/devfinder",
   },
 ];
 
