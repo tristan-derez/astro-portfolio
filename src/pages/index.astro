@@ -44,7 +44,7 @@ import projects from "@/data/projects";
       </header>
       <p>
         Email me at <Link href={`mailto:${presentation.mail}`} label={presentation.mail} /> or send me a message on <Link
-          href={`presentation.socials.find((social) => social.label === "LinkedIn")?.link` || ""}
+          href={presentation.socials.find((social) => social.label === "LinkedIn")?.link || ""}
           label={presentation.socials.find((social) => social.label === "LinkedIn")?.label || ""}
           ;
         />
