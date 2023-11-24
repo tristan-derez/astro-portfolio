@@ -23,10 +23,6 @@ const presentation: Presentation = {
       link: "https://www.linkedin.com/in/tristan-derez/",
     },
     {
-      label: "Bento",
-      link: "https://bento.me/dreyz",
-    },
-    {
       label: "GitHub",
       link: "https://github.com/tristan-derez",
     },
