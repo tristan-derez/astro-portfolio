@@ -16,6 +16,11 @@ const projects: Project[] = [
     techs: ["typescript", "react", "axios", "zustand"],
     link: "projects-details/devfinder",
   },
+  {
+    title: "Static site generator",
+    techs: ["python", "md", "html"],
+    link: "projects-details/static-site-generator",
+  },
 ];
 
 export default projects;
